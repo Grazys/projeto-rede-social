@@ -11,3 +11,5 @@ Utilizei HTML e CSS
 - Flexbox
 - iframe
 - position
+
+<img src="https://github.com/Grazys/projeto-cordel/blob/main/image/logo-grazi-gitHub.png?raw=true">
